@@ -35,7 +35,7 @@ nyc_jobs_project/
 │   ├── 02_kpis.ipynb
 │   └── 03_data_processing.ipynb
 │
-├── README.md
+├── MyMarkdown.md
 ```
 
 ---
